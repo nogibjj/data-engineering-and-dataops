@@ -25,6 +25,10 @@ Data Engineering and DataOps Course:  IDS 706, Fall 2022 by [Noah Gift](https://
 
 Or summarize the key points of the discussion:  https://learning.oreilly.com/videos/enterprise-mlops-interviews/08012022VIDEOPAIML/
 
+### Instructors and Guest Lecturers
+
+ MLOPS pipeline in Snowflake-Chase Romano from Snowflake
+
 
 ### Course Description
 
