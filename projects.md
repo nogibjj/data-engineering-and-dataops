@@ -54,6 +54,12 @@ Reference Source Code:
 * [Python MLOps Cookbook](https://github.com/noahgift/Python-MLOps-Cookbook)
 * [FastAPI](https://learning.oreilly.com/videos/fast-documented-machine/50117VIDEOPAIML/)
 
+#### Challenge Project (not required):
+
+Fine tune a HuggingFace model using GPU in Codespaces and push back to HuggingFace as both a model and Space app
+![10-6-iterative-enterprise-mlops](https://user-images.githubusercontent.com/58792/190471007-f5ed5f24-45b7-42c0-a881-05624834b774.png)
+
+
 
 ### Projects (Group)
 
