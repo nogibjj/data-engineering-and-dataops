@@ -24,6 +24,8 @@ Grab a Kaggle project and convert it to run on Dask or Spark using a Pandas API.
 
 Build a Bash command-line tool that performs a useful data preparation task such as truncating data, sorting it, cleaning data, or doing ETL.  It should be portfolio worthy.
 
+(Optional but recommended:  Push to Docker Hub)
+
 #### Project #3:  SQL [General]
 
 Generate a script that queries a database:  MySQL, Sqlite, Spark or a cloud system.  The query should be something useful to the user and be portfolio worthy.
